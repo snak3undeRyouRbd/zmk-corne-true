@@ -42,12 +42,12 @@ layers:
   - {t: ., s: '>'}
   - {t: /, s: '?'}
   - $$mdi:keyboard-esc$$
-  - LGUI
+  - {t: '$$mdi:apple-keyboard-option$$', h: LGUI}
   - NUMBER
   - {t: '$$mdi:keyboard-space$$', h: Fn}
   - {t: '$$mdi:keyboard-return$$', h: Fn}
   - SYMBOL
-  - $$mdi:apple-keyboard-option$$
+  - {t: '$$mdi:apple-keyboard-option$$', h: '$$mdi:apple-keyboard-command$$'}
   NUMBER:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '1', s: '!'}
