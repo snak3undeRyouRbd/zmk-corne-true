@@ -541,7 +541,6 @@ rect.held, rect.combo.held {
 <path d="M490,77 l443,-27" class="combo"/>
 <rect rx="6" ry="6" x="476" y="64" width="28" height="26" class="combo"/>
 <use href="#mdi:backspace-reverse-outline" xlink:href="#mdi:backspace-reverse-outline" x="481" y="68" height="18" width="18.0" class="combo tap glyph mdi:backspace-reverse-outline"/>
-<text x="490" y="88" class="combo hold">toggle</text>
 </g>
 </g>
 </g>
@@ -830,7 +829,6 @@ rect.held, rect.combo.held {
 <path d="M490,77 l443,-27" class="combo"/>
 <rect rx="6" ry="6" x="476" y="64" width="28" height="26" class="combo"/>
 <use href="#mdi:backspace-reverse-outline" xlink:href="#mdi:backspace-reverse-outline" x="481" y="68" height="18" width="18.0" class="combo tap glyph mdi:backspace-reverse-outline"/>
-<text x="490" y="88" class="combo hold">toggle</text>
 </g>
 </g>
 </g>
@@ -1099,7 +1097,6 @@ rect.held, rect.combo.held {
 <path d="M490,77 l443,-27" class="combo"/>
 <rect rx="6" ry="6" x="476" y="64" width="28" height="26" class="combo"/>
 <use href="#mdi:backspace-reverse-outline" xlink:href="#mdi:backspace-reverse-outline" x="481" y="68" height="18" width="18.0" class="combo tap glyph mdi:backspace-reverse-outline"/>
-<text x="490" y="88" class="combo hold">toggle</text>
 </g>
 </g>
 </g>
@@ -1359,7 +1356,6 @@ rect.held, rect.combo.held {
 <path d="M490,77 l443,-27" class="combo"/>
 <rect rx="6" ry="6" x="476" y="64" width="28" height="26" class="combo"/>
 <use href="#mdi:backspace-reverse-outline" xlink:href="#mdi:backspace-reverse-outline" x="481" y="68" height="18" width="18.0" class="combo tap glyph mdi:backspace-reverse-outline"/>
-<text x="490" y="88" class="combo hold">toggle</text>
 </g>
 </g>
 </g>
