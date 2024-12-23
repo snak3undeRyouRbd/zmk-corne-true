@@ -72,7 +72,7 @@
                                          &trans        &trans        &trans                                                                          &kp INS          &kp DEL          &trans
             >;
 
-            sensor-bindings = <&scroll_encoder>;
+            sensor-bindings = <&inc_dec_kp K_SCROLL_DOWN K_SCROLL_UP>;
         };
 
         raise_layer {
